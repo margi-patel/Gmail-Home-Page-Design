@@ -1,0 +1,124 @@
+body
+{
+	background-color: #cccccc;
+	font-family: arial,sans-serif;
+}
+
+.main_container
+{
+	border: 1px solid #cccccc;
+	height:100%;
+	width:100%;
+}
+
+
+
+.top_left
+{
+	height:50px;
+	width:200px;
+	background-color:#cccccc;
+	position: absolute;
+	left:10px;
+}
+
+.top_center
+{
+	height:50px;
+	width:600px;
+	background-color:#cccccc;
+	position:absolute;
+	left:210px;
+}
+	
+.top_right
+{
+	height:45px;
+	width:300px;
+	background-color:#cccccc;
+	position: relative;
+	left:1030px;
+}
+.search_div
+{
+	position: relative;
+	margin: 27px 10px;
+}
+
+.span_logo
+{
+	background:url("google_logo.png");
+	position:relative;
+	margin-top: 20px;
+}
+
+.top_container
+{
+	border: 1px solid #cccccc;
+	height:10.6%;
+}
+
+.bottom_container
+{
+	border: 1px solid #cccccc;
+	height: 88%;
+}
+
+
+
+.td1
+{
+	width:25px;
+	text-align:center;
+	font-size:20px;
+}
+
+.td2
+{
+	width:25px;
+	text-align:center;
+	font-size:22px;
+}
+
+.td3
+{
+	width:200px;
+	font-size:14px;
+}
+
+.td4
+{
+	width:650px;
+	font-size:14px;
+}
+
+.td5
+{
+	width:50px;
+	font-size:14px;
+}
+
+.td6
+{
+	width:50px;
+	font-size:14px;
+}
+
+table
+{
+    border-collapse:collapse;
+    width: 99.98%;
+	height: 100%;
+	border:1px solid #b3b3b3;
+}
+
+td 
+{
+    text-align: left;
+    padding: 2px;
+}
+
+tr:nth-child(odd)
+{
+	background-color: #f2f2f2
+}
